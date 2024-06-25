@@ -1,0 +1,17 @@
+**/*.vscode
+
+**/*.venv
+
+**/__pycache__/*
+
+**/*.pyc
+
+**/*.pyo
+
+**/*.git*
+
+Dockerfile
+
+.dockerignore
+
+**/*.md
